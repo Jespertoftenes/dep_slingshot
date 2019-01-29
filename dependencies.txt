@@ -1,5 +1,4 @@
 # Dependencies for the Slingshot project
-
 dep_slingshot		https://github.com/jespertoftenes/dep_slingshot.git 	version:master
 dep_slingshot/rock			https://github.com/jespertoftenes/rock.git		version:stable
 dep_slingshot/rubber-band		https://github.com/jespertoftenes/rubber-band.git	version:master
